@@ -43,4 +43,7 @@ RUN curl -Lo ~/tflint.zip https://github.com/wata727/tflint/releases/download/$T
 
     chmod -R +x /usr/local/bin/
 
+RUN chown -R 1001:0 $HOME && \
+    chmod -R g+rw $HOME
+
 USER 1001
