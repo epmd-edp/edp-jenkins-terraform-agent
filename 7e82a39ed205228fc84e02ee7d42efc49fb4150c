@@ -1,0 +1,90 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "693bba2b_1de0d0c6",
+        "filename": "Dockerfile",
+        "patchSetId": 9
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1000007
+      },
+      "writtenOn": "2020-02-20T06:29:03Z",
+      "side": 1,
+      "message": "Why copyright is removed?",
+      "revId": "7e82a39ed205228fc84e02ee7d42efc49fb4150c",
+      "serverId": "0350cb7f-c1b1-4710-a647-f6632dbafb3c",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "dfe67db7_82ea2f03",
+        "filename": "Dockerfile",
+        "patchSetId": 9
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1000007
+      },
+      "writtenOn": "2020-02-20T06:29:03Z",
+      "side": 1,
+      "message": "Lets use openshift/jenkins-slave-base-centos7:v3.11",
+      "range": {
+        "startLine": 1,
+        "startChar": 5,
+        "endLine": 1,
+        "endChar": 48
+      },
+      "revId": "7e82a39ed205228fc84e02ee7d42efc49fb4150c",
+      "serverId": "0350cb7f-c1b1-4710-a647-f6632dbafb3c",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "4c1587ad_047cdef3",
+        "filename": "Dockerfile",
+        "patchSetId": 9
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 1000007
+      },
+      "writtenOn": "2020-02-20T06:29:03Z",
+      "side": 1,
+      "message": "Please remove comments. Installation commands is clear enough",
+      "range": {
+        "startLine": 13,
+        "startChar": 0,
+        "endLine": 13,
+        "endChar": 18
+      },
+      "revId": "7e82a39ed205228fc84e02ee7d42efc49fb4150c",
+      "serverId": "0350cb7f-c1b1-4710-a647-f6632dbafb3c",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5c69682a_fd7abf1e",
+        "filename": "version.json",
+        "patchSetId": 9
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 1000007
+      },
+      "writtenOn": "2020-02-20T06:29:03Z",
+      "side": 1,
+      "message": "This repository is not connected to EDP version so, lets start from 1.0.0",
+      "range": {
+        "startLine": 2,
+        "startChar": 34,
+        "endLine": 2,
+        "endChar": 40
+      },
+      "revId": "7e82a39ed205228fc84e02ee7d42efc49fb4150c",
+      "serverId": "0350cb7f-c1b1-4710-a647-f6632dbafb3c",
+      "unresolved": false
+    }
+  ]
+}
